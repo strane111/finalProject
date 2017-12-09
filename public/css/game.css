@@ -1,0 +1,10 @@
+body{
+	background-image: url("../img/desert_BG.png");
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+nextScreenButton {
+    background-color: #4CAF50;
+    color: white;
+}
